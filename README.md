@@ -1,2 +1,2 @@
 # Python
-Meu Curso de Python, aqui no GitHub
+My course of python, here on GitHub
